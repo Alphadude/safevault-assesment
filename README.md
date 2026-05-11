@@ -57,4 +57,4 @@ The project includes a comprehensive suite of tests to ensure stability:
     ```
 
 ---
-*Developed by Antigravity - Senior Full-Stack Mobile Engineer.*
+*Developed by Ayaosi Godfrey - Full-Stack Mobile Engineer.*
